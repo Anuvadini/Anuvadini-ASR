@@ -1,7 +1,5 @@
 # Anuvadini ASR
 
-> **Status:** reference design and technical specification. This repository contains documentation only — no code and no weights.
-
 Streaming-first automatic speech recognition with **one dedicated model per language** — the 22 scheduled Indian languages (Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu) and Indian-accented English — plus a spoken language-identification model.
 
 ## Architecture (each language model)
